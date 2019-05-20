@@ -32,6 +32,10 @@ body {
     overflow: auto;
     width: 100%
 }
+.testimonial{
+    width: 49%;
+    margin: auto;
+}
 /* End Container */
 
 /* Start Logo */
@@ -145,6 +149,7 @@ h6 {
 .main-home-two .box-isi {
     height: 140px;
 }
+
 /* End Main*/
 
 /* Start Box */
@@ -174,7 +179,11 @@ h6 {
 /* Star Testimonial */
 .testimonial {
     float: center;
-    width: 10%;   
+    width: 10%;
+}
+.main-home-three {
+    width: 70%;
+    margin: auto;
 }
 /* End Testimonial */
 
